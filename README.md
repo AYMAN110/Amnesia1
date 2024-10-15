@@ -4,7 +4,7 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/amnesia3333/Amnesia"><br>
+  <img src="https://img.shields.io/github/stats/top/amnesia3333/Amnesia"><br>
   <img src="https://img.shields.io/github/forks/amnesia3333/Amnesia"><br>
 
 <p align="center">
