@@ -5,7 +5,6 @@
 </div>
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/amnesia3333/Amnesia"><br>
-  <img src="https://img.shields.io/github/stars/amnesia3333/Amnesia">
   <img src="https://img.shields.io/github/forks/amnesia3333/Amnesia"><br>
 
 <p align="center">
