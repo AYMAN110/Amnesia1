@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/forks/amnesia3333/Amnesia"><br>
 
 <p align="center">
-  💻<a href="https://amnesia333.store/" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download</a>💻 |
+  💻<a href="https://amnesia333.store/" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download</a>💻 
 
 
 <p align="center">
@@ -28,7 +28,7 @@
 ## Download
 
 <p align="center">
-  💻<a href="https://amnesia333.store/" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download</a>💻 |
+  💻<a href="https://amnesia333.store/" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download</a>💻 
 
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
